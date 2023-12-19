@@ -1,0 +1,103 @@
+{
+    "id": 5,
+    "title": "Public Navbar 2",
+    "uid": "public-navbar-2",
+    "variant": "boxed",
+    "class_name": null,
+    "position": "fixed",
+    "side": "top",
+    "createdAt": "2023-12-19T11:12:09.645Z",
+    "updatedAt": "2023-12-19T11:12:09.645Z",
+    "publishedAt": "2023-12-18T09:48:18.034Z",
+    "locale": "en",
+    "page_blocks": [
+        {
+            "__component": "page-blocks.navbar-block",
+            "id": 8,
+            "variant": "simple-links-on-left",
+            "description": null,
+            "class_name": null,
+            "logotype": {
+                "id": 8,
+                "title": null,
+                "url": null,
+                "media": [
+                    {
+                        "id": 10,
+                        "name": "photo_2023-10-09 00.07.27.jpeg",
+                        "alternativeText": null,
+                        "caption": null,
+                        "width": 1280,
+                        "height": 354,
+                        "formats": {
+                            "large": {
+                                "ext": ".jpeg",
+                                "url": "/uploads/large_photo_2023_10_09_00_07_27_0596be980b.jpeg",
+                                "hash": "large_photo_2023_10_09_00_07_27_0596be980b",
+                                "mime": "image/jpeg",
+                                "name": "large_photo_2023-10-09 00.07.27.jpeg",
+                                "path": null,
+                                "size": 15.11,
+                                "width": 1000,
+                                "height": 277
+                            },
+                            "small": {
+                                "ext": ".jpeg",
+                                "url": "/uploads/small_photo_2023_10_09_00_07_27_0596be980b.jpeg",
+                                "hash": "small_photo_2023_10_09_00_07_27_0596be980b",
+                                "mime": "image/jpeg",
+                                "name": "small_photo_2023-10-09 00.07.27.jpeg",
+                                "path": null,
+                                "size": 7,
+                                "width": 500,
+                                "height": 138
+                            },
+                            "medium": {
+                                "ext": ".jpeg",
+                                "url": "/uploads/medium_photo_2023_10_09_00_07_27_0596be980b.jpeg",
+                                "hash": "medium_photo_2023_10_09_00_07_27_0596be980b",
+                                "mime": "image/jpeg",
+                                "name": "medium_photo_2023-10-09 00.07.27.jpeg",
+                                "path": null,
+                                "size": 11.05,
+                                "width": 750,
+                                "height": 207
+                            },
+                            "thumbnail": {
+                                "ext": ".jpeg",
+                                "url": "/uploads/thumbnail_photo_2023_10_09_00_07_27_0596be980b.jpeg",
+                                "hash": "thumbnail_photo_2023_10_09_00_07_27_0596be980b",
+                                "mime": "image/jpeg",
+                                "name": "thumbnail_photo_2023-10-09 00.07.27.jpeg",
+                                "path": null,
+                                "size": 3.25,
+                                "width": 245,
+                                "height": 67
+                            }
+                        },
+                        "hash": "photo_2023_10_09_00_07_27_0596be980b",
+                        "ext": ".jpeg",
+                        "mime": "image/jpeg",
+                        "size": 18.2,
+                        "url": "/uploads/photo_2023_10_09_00_07_27_0596be980b.jpeg",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "folderPath": "/",
+                        "createdAt": "2023-12-19T11:12:09.590Z",
+                        "updatedAt": "2023-12-19T11:12:09.590Z",
+                        "folder": null
+                    }
+                ],
+                "additional_media": null
+            },
+            "buttons": [],
+            "additional_buttons": [],
+            "extra_buttons": []
+        }
+    ],
+    "layouts": [],
+    "createdBy": null,
+    "updatedBy": null,
+    "localizations": []
+}

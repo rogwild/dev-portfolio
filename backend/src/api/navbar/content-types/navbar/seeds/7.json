@@ -1,0 +1,103 @@
+{
+    "id": 7,
+    "title": "New Navbar",
+    "uid": "new-navbar",
+    "variant": "boxed",
+    "class_name": null,
+    "position": "fixed",
+    "side": "top",
+    "createdAt": "2023-12-19T11:12:09.952Z",
+    "updatedAt": "2023-12-19T11:12:09.952Z",
+    "publishedAt": "2023-12-18T09:52:36.319Z",
+    "locale": "en",
+    "page_blocks": [
+        {
+            "__component": "page-blocks.navbar-block",
+            "id": 10,
+            "variant": "simple-links-on-left",
+            "description": null,
+            "class_name": null,
+            "logotype": {
+                "id": 10,
+                "title": null,
+                "url": null,
+                "media": [
+                    {
+                        "id": 12,
+                        "name": "w3p-logo.png",
+                        "alternativeText": null,
+                        "caption": null,
+                        "width": 1001,
+                        "height": 1001,
+                        "formats": {
+                            "large": {
+                                "ext": ".png",
+                                "url": "/uploads/large_w3p_logo_92290b1a67.png",
+                                "hash": "large_w3p_logo_92290b1a67",
+                                "mime": "image/png",
+                                "name": "large_w3p-logo.png",
+                                "path": null,
+                                "size": 36.13,
+                                "width": 1000,
+                                "height": 1000
+                            },
+                            "small": {
+                                "ext": ".png",
+                                "url": "/uploads/small_w3p_logo_92290b1a67.png",
+                                "hash": "small_w3p_logo_92290b1a67",
+                                "mime": "image/png",
+                                "name": "small_w3p-logo.png",
+                                "path": null,
+                                "size": 12.7,
+                                "width": 500,
+                                "height": 500
+                            },
+                            "medium": {
+                                "ext": ".png",
+                                "url": "/uploads/medium_w3p_logo_92290b1a67.png",
+                                "hash": "medium_w3p_logo_92290b1a67",
+                                "mime": "image/png",
+                                "name": "medium_w3p-logo.png",
+                                "path": null,
+                                "size": 26.3,
+                                "width": 750,
+                                "height": 750
+                            },
+                            "thumbnail": {
+                                "ext": ".png",
+                                "url": "/uploads/thumbnail_w3p_logo_92290b1a67.png",
+                                "hash": "thumbnail_w3p_logo_92290b1a67",
+                                "mime": "image/png",
+                                "name": "thumbnail_w3p-logo.png",
+                                "path": null,
+                                "size": 2.91,
+                                "width": 156,
+                                "height": 156
+                            }
+                        },
+                        "hash": "w3p_logo_92290b1a67",
+                        "ext": ".png",
+                        "mime": "image/png",
+                        "size": 6.09,
+                        "url": "/uploads/w3p_logo_92290b1a67.png",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "folderPath": "/",
+                        "createdAt": "2023-12-19T11:12:09.913Z",
+                        "updatedAt": "2023-12-19T11:12:09.913Z",
+                        "folder": null
+                    }
+                ],
+                "additional_media": null
+            },
+            "buttons": [],
+            "additional_buttons": [],
+            "extra_buttons": []
+        }
+    ],
+    "layouts": [],
+    "createdBy": null,
+    "updatedBy": null,
+    "localizations": []
+}

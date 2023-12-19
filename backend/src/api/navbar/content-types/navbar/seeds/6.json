@@ -1,0 +1,103 @@
+{
+    "id": 6,
+    "title": "Navbar",
+    "uid": "navbar-1",
+    "variant": "boxed",
+    "class_name": null,
+    "position": "fixed",
+    "side": "top",
+    "createdAt": "2023-12-19T11:12:09.791Z",
+    "updatedAt": "2023-12-19T11:12:09.791Z",
+    "publishedAt": "2023-12-18T09:50:17.132Z",
+    "locale": "en",
+    "page_blocks": [
+        {
+            "__component": "page-blocks.navbar-block",
+            "id": 9,
+            "variant": "simple-links-on-left",
+            "description": null,
+            "class_name": null,
+            "logotype": {
+                "id": 9,
+                "title": null,
+                "url": null,
+                "media": [
+                    {
+                        "id": 11,
+                        "name": "pexels-fauxels-3184454 (1).jpg",
+                        "alternativeText": null,
+                        "caption": null,
+                        "width": 1280,
+                        "height": 854,
+                        "formats": {
+                            "large": {
+                                "ext": ".jpg",
+                                "url": "/uploads/large_pexels_fauxels_3184454_1_b3447aa8bf.jpg",
+                                "hash": "large_pexels_fauxels_3184454_1_b3447aa8bf",
+                                "mime": "image/jpeg",
+                                "name": "large_pexels-fauxels-3184454 (1).jpg",
+                                "path": null,
+                                "size": 106.53,
+                                "width": 1000,
+                                "height": 667
+                            },
+                            "small": {
+                                "ext": ".jpg",
+                                "url": "/uploads/small_pexels_fauxels_3184454_1_b3447aa8bf.jpg",
+                                "hash": "small_pexels_fauxels_3184454_1_b3447aa8bf",
+                                "mime": "image/jpeg",
+                                "name": "small_pexels-fauxels-3184454 (1).jpg",
+                                "path": null,
+                                "size": 34.91,
+                                "width": 500,
+                                "height": 334
+                            },
+                            "medium": {
+                                "ext": ".jpg",
+                                "url": "/uploads/medium_pexels_fauxels_3184454_1_b3447aa8bf.jpg",
+                                "hash": "medium_pexels_fauxels_3184454_1_b3447aa8bf",
+                                "mime": "image/jpeg",
+                                "name": "medium_pexels-fauxels-3184454 (1).jpg",
+                                "path": null,
+                                "size": 66.94,
+                                "width": 750,
+                                "height": 500
+                            },
+                            "thumbnail": {
+                                "ext": ".jpg",
+                                "url": "/uploads/thumbnail_pexels_fauxels_3184454_1_b3447aa8bf.jpg",
+                                "hash": "thumbnail_pexels_fauxels_3184454_1_b3447aa8bf",
+                                "mime": "image/jpeg",
+                                "name": "thumbnail_pexels-fauxels-3184454 (1).jpg",
+                                "path": null,
+                                "size": 9.81,
+                                "width": 234,
+                                "height": 156
+                            }
+                        },
+                        "hash": "pexels_fauxels_3184454_1_b3447aa8bf",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "size": 125.47,
+                        "url": "/uploads/pexels_fauxels_3184454_1_b3447aa8bf.jpg",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "folderPath": "/",
+                        "createdAt": "2023-12-19T11:12:09.757Z",
+                        "updatedAt": "2023-12-19T11:12:09.757Z",
+                        "folder": null
+                    }
+                ],
+                "additional_media": null
+            },
+            "buttons": [],
+            "additional_buttons": [],
+            "extra_buttons": []
+        }
+    ],
+    "layouts": [],
+    "createdBy": null,
+    "updatedBy": null,
+    "localizations": []
+}
